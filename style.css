@@ -288,10 +288,10 @@ object-fit: cover;
   }
   #product1 .pro-container{
     display: flex;
-    padding: 10px;
+    padding: 120px;
     padding-top: 20px;
     flex-wrap: wrap;
-    gap: 10px;
+    gap: 90px;
   }
   
   #product1 .pro{
