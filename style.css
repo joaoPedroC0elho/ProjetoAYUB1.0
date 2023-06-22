@@ -291,7 +291,7 @@ object-fit: cover;
     padding: 120px;
     padding-top: 20px;
     flex-wrap: wrap;
-    gap: 90px;
+   gap: 90px;
   }
   
   #product1 .pro{
